@@ -1,4 +1,4 @@
-# survival_prediction_titanic
+# Survival-Prediction-Titanic
 
 Python implementation of 4 classification and 1 clustering algorithms to predict the survival of Titanic's passengers.
 Classification: Random Forest, K-nn, Neural Networks, Support Vector Machines
